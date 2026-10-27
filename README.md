@@ -23,6 +23,8 @@ Exemplos didáticos, todos orientados a objetos (uma classe por aplicação):
 | `appmeses.py` | Lista suspensa (`ttk.Combobox`) somente leitura com os meses e evento de seleção |
 | `coresapp.py` | Botão que troca a cor de fundo da janela aleatoriamente (`random.choice`) |
 | `desafio_canvas.py` | `Canvas` com um retângulo que muda de cor por botão e botão que abre um aviso (`messagebox`) |
+| `janela.py` | Janela simples centralizada na tela (`geometry`) com ícone opcional (`iconbitmap`) |
+| `abasapp.py` | Interface com abas (`ttk.Notebook`): Principal e Sobre |
 
 ## Como executar
 
